@@ -1,0 +1,4 @@
+Nsbt01~Nsbt pvt# Ltd~A-39,Noida~U.P.~2013FFF7~nsbt@nucleussoftware.cm~9998065432~Chitralekha~N~A~13/Aug/2010~Nidhi~~~~
+Wipro01~Wipro pvt Ltd~A-12,Noida~U.P.~20137~wipro@gmail.com~9806543201~Naveen~N~A~13/Aug/2010~Rajeev~~~~
+Tcs01~Tcs pvt Ltd ~C-52,Mathura~U.P.~100445~tcs@hotmail.com~9980654321~Nitin~N~A~13/Aug/2010~Nishant~~~24/Aug/2010~Vaibhav
+Amity12~Amity pvt Ltd~22,Ghaziabad~U.P~144201~amity@rediffmail.com~9890202103~Vijay~N~A~13/Aug/2010~Gaurav~~~~
